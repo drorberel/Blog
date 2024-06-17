@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Work in progress…\ncheck out https://drorberel.github.io/ page"
+  },
+  {
+    "objectID": "posts/openxlsx/index.html",
+    "href": "posts/openxlsx/index.html",
+    "title": "openxlsx or openxlsx2 ?",
+    "section": "",
+    "text": "How to save Excel XLSX files?\ncouple of packages:\n\nopenxlsx -\nopenxlsx2\n…\n\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/NSE/index.html",
+    "href": "posts/NSE/index.html",
+    "title": "NSE for each tidyverse verb: count, group_by, select, filter",
+    "section": "",
+    "text": "-NSE for each tidyverse verb: count, group_by, select, filter"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "Why another blog?\nYou may have noticed I already have couple of posts at Medium. Well, Quarto provide a more reproducible code user friendly platform, so I decided to give it a try. Will see how it goes."
+  },
+  {
+    "objectID": "posts/webr/index.html",
+    "href": "posts/webr/index.html",
+    "title": "Demo: Webr",
+    "section": "",
+    "text": "Trying webr.\nNote: no packages are loaded, so only base operations should be executable. Otherwise you might get a missing package dependency error :(\nCreate a numeric variable\n\nPlease enable JavaScript to experience the dynamic code cell content on this page."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "There is R package for that…",
+    "section": "",
+    "text": "Welcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJun 16, 2024\n\n\nDror Berel\n\n\n\n\n\n\n\n\n\n\n\n\nNSE for each tidyverse verb: count, group_by, select, filter\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\nJun 16, 2024\n\n\nDror Berel\n\n\n\n\n\n\n\n\n\n\n\n\nDemo: Webr\n\n\n\n\n\nUsing webr extension\n\n\n\n\n\nJun 16, 2024\n\n\nDror Berel\n\n\n\n\n\n\n\n\n\n\n\n\nopenxlsx or openxlsx2 ?\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMay 15, 2024\n\n\nDror Berel\n\n\n\n\n\n\nNo matching items"
+  }
+]
