@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Dror Berel. Statistical Consultant. There is R package for that..."
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://drorberel.github.io/
+      - icon: linkedin
+        href: https://www.linkedin.com/in/dror-berel
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+editor: visual
+

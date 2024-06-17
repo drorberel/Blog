@@ -1,0 +1,17 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/dror-berel
+    - icon: github
+      text: Github
+      href: https://drorberel.github.io/
+---
+
+Work in progress...
+
+check out <https://drorberel.github.io/> page

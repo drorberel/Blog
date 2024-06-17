@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 59009956-532a-4da0-8538-0595eb2d9544
+      url: 'https://dror-berel.quarto.pub/blog'

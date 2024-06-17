@@ -1,0 +1,15 @@
+{
+  "hash": "d34b716d5288b59c84ed6103c57894d1",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"openxlsx or openxlsx2 ?\"\nauthor: \"Dror Berel\"\ndate: \"2024-05-15\"\ncategories: [news, code, analysis]\nimage: \"image.jpg\"\n---\n\n\n\nHow to save Excel XLSX files?\n\ncouple of packages:\n\n1.  openxlsx -\n\n2.  openxlsx2\n\n3.  ...\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

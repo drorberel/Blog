@@ -1,0 +1,33 @@
+---
+title: "Demo: Webr"
+description: "Using `webr` extension"
+engine: knitr
+format: 
+  html:
+    code-fold: false
+    code-tools: false
+editor: source
+filters: 
+  - webr
+webr:
+  channel-type: "post-message"
+  
+author: "Dror Berel"
+date: "2024-06-16"
+
+---
+
+Trying webr.    
+Note: no packages are loaded, so only base operations should be executable.    Otherwise you might get a missing package dependency error :(
+
+Create a numeric variable
+
+
+```{webr-r}
+#| label: use-webr
+#| echo: true
+#| eval: true
+a <- 3
+b <- 5
+a+b
+```

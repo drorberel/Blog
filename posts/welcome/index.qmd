@@ -1,0 +1,12 @@
+---
+title: "Welcome To My Blog"
+author: "Dror Berel"
+date: "2024-06-16"
+categories: [news]
+---
+
+Why another blog?   
+You may have noticed I already have couple of posts at Medium.
+Well, Quarto provide a more reproducible code user friendly platform, so I decided to give it a try.
+Will see how it goes.
+

@@ -1,0 +1,21 @@
+---
+title: "openxlsx or openxlsx2 ?"
+author: "Dror Berel"
+date: "2024-05-15"
+categories: [news, code, analysis]
+image: "image.jpg"
+---
+
+How to save Excel XLSX files?
+
+couple of packages:
+
+1.  openxlsx -
+
+2.  openxlsx2
+
+3.  ...
+
+```{r}
+1 + 1
+```

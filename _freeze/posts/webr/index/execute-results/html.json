@@ -1,0 +1,15 @@
+{
+  "hash": "4e8f713e93b447f357381415e15e4341",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Demo: Webr\"\ndescription: \"Using `webr` extension\"\nengine: knitr\nformat: \n  html:\n    code-fold: false\n    code-tools: false\neditor: source\nfilters: \n  - webr\nwebr:\n  channel-type: \"post-message\"\n  \nauthor: \"Dror Berel\"\ndate: \"2024-06-16\"\n\n---\n\n\n\n\nTrying webr.    \nNote: no packages are loaded, so only base operations should be executable.    Otherwise you might get a missing package dependency error :(\n\nCreate a numeric variable\n\n\n```{webr-r}\n#| label: use-webr\n#| echo: true\n#| eval: true\na <- 3\nb <- 5\na+b\n```\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
