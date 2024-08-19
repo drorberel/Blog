@@ -1,1 +1,1 @@
-Sitemap: https://drorberel.github.io/Blog/sitemap.xml
+Sitemap: https://dror-berel.quarto.pub/blog/sitemap.xml

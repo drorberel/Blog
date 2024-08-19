@@ -3,6 +3,7 @@
     "listing": "/index.html",
     "items": [
       "/posts/welcome/index.html",
+      "/posts/NSE/index.html",
       "/posts/webr/index.html",
       "/posts/openxlsx/index.html"
     ]

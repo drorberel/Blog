@@ -350,7 +350,7 @@ globalThis.qwebrCustomizedWebROptions = {
 };
 
 // Store cell data
-globalThis.qwebrCellDetails = [{"code":"a <- 3\nb <- 5\na+b","options":{"editor-quick-suggestions":"false","results":"markup","editor-max-height":"","label":"use-webr","warning":"true","editor-word-wrap":"true","echo":"true","message":"true","fig-cap":"","out-width":"700px","comment":"","classes":"","fig-height":5,"read-only":"false","out-height":"","eval":"true","dpi":72,"autorun":"false","context":"interactive","editor-font-scale":"1","output":"true","fig-width":7},"id":1}];
+globalThis.qwebrCellDetails = [{"code":"a <- 3\nb <- 5\na+b","id":1,"options":{"autorun":"false","message":"true","out-height":"","context":"interactive","label":"use-webr","out-width":"700px","echo":"true","fig-width":7,"comment":"","eval":"true","editor-max-height":"","dpi":72,"editor-font-scale":"1","fig-cap":"","editor-quick-suggestions":"false","classes":"","editor-word-wrap":"true","output":"true","read-only":"false","results":"markup","fig-height":5,"warning":"true"}}];
 
 </script>
 <script type="module">
@@ -1964,7 +1964,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/drorberel\.github\.io\/Blog\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
