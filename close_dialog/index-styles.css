@@ -1,0 +1,18 @@
+
+
+
+a {
+  color: #508080;
+}
+
+.cr-section {
+  .narrative-col {
+    min-width: 400px;
+    
+  }
+}
+
+.cr-section .sticky-col {
+  padding-left: 10px;
+  padding-right: 10px;
+}
